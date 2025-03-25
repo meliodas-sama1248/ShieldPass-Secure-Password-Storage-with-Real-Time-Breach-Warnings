@@ -1,4 +1,4 @@
-# 🔐 ShieldPass - Secure Password Storage with Real-Time Breach Warningshttps://github.com/meliodas-sama1248/ShieldPass-Secure-Password-Storage-with-Real-Time-Breach-Warnings
+# 🔐 ShieldPass - Secure Password Storage with Real-Time Breach Warnings
 
 **ShieldPass** is an offline password manager designed to securely store user credentials while providing real-time breach alerts. It ensures that users do not reuse compromised passwords, enhancing their overall cybersecurity.
 
